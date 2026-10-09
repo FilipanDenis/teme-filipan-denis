@@ -76,6 +76,7 @@ refuzul suprascrierii, proxy-ul, inelul, timestampuri cu fusuri orare diferite �
 
 ## Ghiduri
 
+- [Cum funcționează și cum prezinți cele cinci teme](ghiduri/prezentare.md): explicații, comenzi, rezultate și răspunsuri la întrebările profesorului.
 - [Fedora și GitHub, de la zero](ghiduri/fedora_github.md): descărcare, prima rulare, accesul profesorului și actualizări.
 - [Noțiunile de explicat la prezentare](ghiduri/notiuni.md): proces, nod, client, server, TCP și protocolul de transfer.
 - [Rularea pe calculatoare diferite](ghiduri/noduri_retea.md): adrese IP, porturi și modificarea comenzilor.
