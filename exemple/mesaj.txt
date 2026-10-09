@@ -1,0 +1,3 @@
+Salut, Denis!
+Acest fișier este folosit pentru temele de transfer direct, proxy și distribuire.
+Include diacritice: ă, â, î, ș, ț.
