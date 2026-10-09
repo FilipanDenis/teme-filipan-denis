@@ -2,8 +2,7 @@
 
 Repository public: [FilipanDenis/teme-filipan-denis](https://github.com/FilipanDenis/teme-filipan-denis).
 
-Cinci exerciții de comunicare între procese și noduri, implementate cu socket-uri TCP.
-Codul este comentat în română. Instrucțiunile sunt pentru Fedora și folosesc `python3`.
+Exerciții de comunicare între procese și noduri, implementate cu socket-uri TCP. Instrucțiunile sunt pentru Fedora și folosesc `python3`.
 
 | Tema | Folder | Comportament |
 | --- | --- | --- |
